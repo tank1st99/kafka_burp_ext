@@ -1,0 +1,8 @@
+
+/.idea/
+/classes/
+/lib/
+/target/
+kafka_burp_extension.iml
+kafka_burp_extension.properties
+kafka_burp_extension.xml
